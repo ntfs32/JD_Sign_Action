@@ -2,13 +2,13 @@ name: JD_Sign_Action
 
 on:
   repository_dispatch:
-  release:
-    types: published
-  push:
-    branches:
-    - master
-  schedule:
-    - cron: 0 17 * * *
+#   release:
+#     types: published
+#   push:
+#     branches:
+#     - master
+#   schedule:
+#     - cron: 0 17 * * *
   watch:
     types: started
     
