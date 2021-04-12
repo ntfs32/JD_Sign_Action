@@ -42,7 +42,7 @@
 * 点击`JDCookie`即可拷贝京东cookie；
 
 ## 获取Server酱SCKEY
-
+ 
 * github 授权登录[Server酱](http://sc.ftqq.com/3.version)官网；
 * 菜单栏`微信推送`扫描绑定微信；
 * 菜单栏`发送消息`拷贝SCKEY；
